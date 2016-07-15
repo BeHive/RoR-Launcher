@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>Resources/loginframe.png</file>
+        <file>Resources/ageofreckoning.ttf</file>
+        <file>Resources/loginbtn.png</file>
+        <file>Resources/closebtn.png</file>
+    </qresource>
+</RCC>
